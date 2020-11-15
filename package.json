@@ -2,6 +2,9 @@
   "name": "graphqlserver",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "12.18.4"
+  },
   "main": "index.js",
   "scripts": {
     "dev": "react-scripts start",
@@ -22,5 +25,5 @@
     "mongoose": "^5.10.9",
     "serve": "^11.3.2"
   },
-  "proxy": "https://agile-harbor-09279.herokuapp.com/"
+  "proxy": "https://tranquil-escarpment-24746.herokuapp.com/"
 }
